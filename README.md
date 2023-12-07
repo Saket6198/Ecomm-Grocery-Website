@@ -4,7 +4,7 @@
 This project is a fully functional ECommerece website with various dynamic functions implemented using JavaScript, payment integration using Paypal API, front end styling and navbar implementation using CSS and HTML, database and backend integration using Django(Python) and sqlite3 and also the ability for users to shop as a guest or as a registered user using cookies and CSRF tokens.
 
 ## VISUALS
-Video Demo : 
+Video Demo : https://drive.google.com/file/d/14cnZ8nd4spCZ20tilqTPUBGvFFjgguui/view?usp=sharing
 
 ## INSTALLATION
 1. Clone/ download the repository.
